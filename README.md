@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido com o objetivo de analisar a rentabilidade do CDI ao longo do tempo, obtendo dados diretamente do Banco Central. A partir de 1994, foi criada uma calculadora de retorno, avaliando janelas de retornos e oferecendo insights sobre a lucratividade de diferentes períodos e condições.
 
-##Questões Abordadas
+## Questões Abordadas
 
 **Questão 1: Cálculo de Lucro com SELIC**
 
@@ -23,7 +23,7 @@ O fundo mais lucrativo da principal empresa de gestão de ativos de Gotham City 
 4. **Obter dados da SELIC a partir do Banco Central.**
 5. **Calcular o retorno do capital para o período fornecido.**
 
-##Questão 2: Período Mais Lucrativo de 500 Dias
+## Questão 2: Período Mais Lucrativo de 500 Dias
 
 Dada a janela de tempo entre 2000-01-01 e 2022-03-31, a tarefa aqui é identificar qual foi o período mais lucrativo de 500 dias consecutivos.
 
