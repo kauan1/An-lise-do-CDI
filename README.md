@@ -15,7 +15,7 @@ O fundo mais lucrativo da principal empresa de gestão de ativos de Gotham City 
 **Passos para a Solução:**
 1. **Instalar e importar os módulos e bibliotecas necessárias.**
 2. **Coletar dados do usuário:**
-  - Capital inicial
+  -- Capital inicial
   - Data de início
   - Data de término
   - Frequência do cálculo
