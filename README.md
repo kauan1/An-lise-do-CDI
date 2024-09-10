@@ -15,10 +15,10 @@ O fundo mais lucrativo da principal empresa de gestão de ativos de Gotham City 
 **Passos para a Solução:**
 1. **Instalar e importar os módulos e bibliotecas necessárias.**
 2. **Coletar dados do usuário:**
-  - Capital inicial
-  - Data de início
-  - Data de término
-  - Frequência do cálculo
+    - Capital inicial
+    - Data de início
+    - Data de término
+    - Frequência do cálculo
 3. **Tratar os dados coletados.**
 4. **Obter dados da SELIC a partir do Banco Central.**
 5. **Calcular o retorno do capital para o período fornecido.**
